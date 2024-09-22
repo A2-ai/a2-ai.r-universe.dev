@@ -2,5 +2,17 @@
     {
         "package": "blake3r",
         "url": "https://github.com/a2-ai/blake3r"
-    }
+    },
+        {
+        "package": "dvs",
+        "url": "https://github.com/a2-ai/dvs"
+    },
+        {
+        "package": "slurmtools",
+        "url": "https://github.com/a2-ai/slurmtools"
+    },        
+    {
+        "package": "osinfo",
+        "url": "https://github.com/a2-ai/osinfo"
+    } 
 ]
