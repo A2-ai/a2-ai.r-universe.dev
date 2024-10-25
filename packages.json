@@ -12,6 +12,14 @@
         "url": "https://github.com/a2-ai/slurmtools"
     },        
     {
+        "package": "reportifyr",
+        "url": "https://github.com/a2-ai/reportifyr"
+    },   
+    {
+        "package": "ghqc.app",
+        "url": "https://github.com/a2-ai/ghqc.app"
+    }, 
+    {
         "package": "osinfo",
         "url": "https://github.com/a2-ai/osinfo"
     } 
