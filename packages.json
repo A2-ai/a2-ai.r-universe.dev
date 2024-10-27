@@ -20,6 +20,10 @@
         "url": "https://github.com/a2-ai/ghqc.app"
     }, 
     {
+        "package": "ghqc",
+        "url": "https://github.com/a2-ai/ghqc"
+    }, 
+    {
         "package": "osinfo",
         "url": "https://github.com/a2-ai/osinfo"
     } 
