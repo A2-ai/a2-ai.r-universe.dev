@@ -26,7 +26,11 @@
     {
         "package": "osinfo",
         "url": "https://github.com/a2-ai/osinfo"
-    }, 
+    },
+    {
+        "package": "pkgpub",
+        "url": "https://github.com/a2-ai/pkgpub"
+    },
     {
         "package": "scicalc",
         "url": "https://github.com/a2-ai/scicalc"
