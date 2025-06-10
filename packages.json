@@ -34,5 +34,9 @@
     {
         "package": "scicalc",
         "url": "https://github.com/a2-ai/scicalc"
+    },
+	  {
+        "package": "cqtkit",
+        "url": "https://github.com/a2-ai/cqtkit"
     } 
 ]
