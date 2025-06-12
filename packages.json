@@ -1,38 +1,47 @@
 [
     {
         "package": "blake3r",
-        "url": "https://github.com/a2-ai/blake3r"
+        "url": "https://github.com/a2-ai/blake3r",
+        "branch": "*release"
     },
         {
         "package": "dvs",
-        "url": "https://github.com/a2-ai/dvs"
+        "url": "https://github.com/a2-ai/dvs",
+        "branch": "*release"
     },
         {
         "package": "slurmtools",
-        "url": "https://github.com/a2-ai/slurmtools"
+        "url": "https://github.com/a2-ai/slurmtools",
+        "branch": "*release"
     },        
     {
         "package": "reportifyr",
-        "url": "https://github.com/a2-ai/reportifyr"
+        "url": "https://github.com/a2-ai/reportifyr",
+        "branch": "*release"
     },   
     {
         "package": "ghqc.app",
-        "url": "https://github.com/a2-ai/ghqc.app"
+        "url": "https://github.com/a2-ai/ghqc.app",
+        "branch": "*release"
     }, 
     {
         "package": "ghqc",
-        "url": "https://github.com/a2-ai/ghqc"
+        "url": "https://github.com/a2-ai/ghqc",
+        "branch": "*release"
     }, 
     {
         "package": "osinfo",
-        "url": "https://github.com/a2-ai/osinfo"
+        "url": "https://github.com/a2-ai/osinfo",
+        "branch": "*release"
     },
     {
         "package": "pkgpub",
-        "url": "https://github.com/a2-ai/pkgpub"
+        "url": "https://github.com/a2-ai/pkgpub",
+        "branch": "*release"
     },
     {
         "package": "scicalc",
-        "url": "https://github.com/a2-ai/scicalc"
+        "url": "https://github.com/a2-ai/scicalc",
+        "branch": "*release"
     } 
 ]
