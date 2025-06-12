@@ -1,8 +1,7 @@
 [
     {
         "package": "blake3r",
-        "url": "https://github.com/a2-ai/blake3r",
-        "branch": "*release"
+        "url": "https://github.com/a2-ai/blake3r"
     },
         {
         "package": "dvs",
